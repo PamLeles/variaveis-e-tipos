@@ -6,7 +6,7 @@ Neste repositório você encontrará a atividade prática proposta pelo curso "V
 1.Verifique, de duas maneiras diferentes entre si, se uma String é um palíndromo.
 ___
 Palíndromo: frase ou palavra que se pode ler, indiferentemente, da esquerda para a direita ou vice-versa (ex.: raiar, ama, ovo, radar)
-___
+
 ## Atividade 2
 
 2.Troque todos os elementos pares e diferentes de zero de um array pelo número 0. Se o array for vazio, retorne -1.
